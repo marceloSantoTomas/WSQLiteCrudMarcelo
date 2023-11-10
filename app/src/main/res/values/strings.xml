@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WSQLiteCrudMarcelo</string>
+
+
+    //Interfaz dialogo
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnCancelar">Cancelar</string>
+
+
+
+    //Interfaz Vista
+    <string name="btnSalir">Salir</string>
+
+
+    //Interfaz ITEM
+
+
+
+
+</resources>
